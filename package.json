@@ -1,5 +1,4 @@
 {
-  "name": "badjitsu",
   "description": "demo node.js application with missing required fields for nodejitsu deployment",
   "version": "0.1.0",
   "author": "Marak Squires",
